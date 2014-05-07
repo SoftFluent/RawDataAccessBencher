@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telerik.Bencher.Model", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFluentEntities.Bencher", "CodeFluentEntities.Bencher\CodeFluentEntities.Bencher.csproj", "{13ED92FE-1691-4CD5-82A4-35227D0B395C}"
 EndProject
+Project("{00000005-0004-0000-0000-000000C0DEF1}") = "CodeFluentEntities.Bencher.Model", "CodeFluentEntities.Bencher.Model\CodeFluentEntities.Bencher.Model.cfxproj", "{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
@@ -145,6 +147,16 @@ Global
 		{13ED92FE-1691-4CD5-82A4-35227D0B395C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13ED92FE-1691-4CD5-82A4-35227D0B395C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{13ED92FE-1691-4CD5-82A4-35227D0B395C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Debug|.NET.ActiveCfg = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Debug|.NET.Build.0 = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Debug|Any CPU.ActiveCfg = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Debug|Mixed Platforms.ActiveCfg = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Debug|Mixed Platforms.Build.0 = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Release|.NET.ActiveCfg = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Release|.NET.Build.0 = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Release|Any CPU.ActiveCfg = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Release|Mixed Platforms.ActiveCfg = Release|.NET
+		{F49204CC-FB66-4D92-8AE0-A551DBFD0CD4}.Release|Mixed Platforms.Build.0 = Release|.NET
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
